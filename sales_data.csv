@@ -1,0 +1,16 @@
+date,product,region,sales
+2026-01-05,Laptop,North,1200
+2026-01-10,Monitor,South,450
+2026-01-15,Keyboard,East,120
+2026-02-03,Laptop,West,1350
+2026-02-12,Mouse,North,75
+2026-02-18,Monitor,East,500
+2026-03-02,Keyboard,South,140
+2026-03-10,Laptop,North,1500
+2026-03-17,Mouse,West,90
+2026-04-01,Monitor,South,550
+2026-04-08,Laptop,East,1450
+2026-04-15,Keyboard,West,160
+2026-05-05,Mouse,North,85
+2026-05-12,Monitor,East,600
+2026-05-20,Laptop,South,1600
